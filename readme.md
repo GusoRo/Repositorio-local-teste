@@ -9,3 +9,9 @@ Exercitar conceitos de lógica de programação e orientação a objetos.
 ## Como executar
 
 Execute a classe principal do projeto em uma IDE Java.
+
+## Tecnologias utilizadas
+
+- Java
+- Git
+- GitHub
