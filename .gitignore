@@ -1,0 +1,12 @@
+# Arquivos de log
+*.log
+
+#arquivos temporários do sistema
+/*.DS_Store
+/pycache
+
+#Pasta de compilação ou build
+/build
+
+#Configurações de IDEs
+/.user
